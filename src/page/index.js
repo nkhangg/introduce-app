@@ -1,0 +1,9 @@
+export { default as Home } from './Home';
+export { default as GuideRefreshPasswrod } from './GuideRefreshPasswrod';
+export { default as Content } from './Content';
+export { default as GuideLogin } from './GuideLogin';
+export { default as GuideManager } from './GuideManager';
+export { default as GuiCoures } from './GuideCoures';
+export { default as GuideLeaner } from './GuideLeaner';
+export { default as GuideStudent } from './GuideStudent';
+export { default as GuideChart } from './GuideChart';
